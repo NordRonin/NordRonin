@@ -4,7 +4,7 @@
   <p><b>Продуктовый аналитик / Аналитик данных</b></p>
   
   <!-- Здесь можешь вставить GIF с северным сиянием (пример ссылки, замени на свою) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29vbHYwMXl0eHM0cTVsaDlqZ2w1YmFyeDhqdWx5MzhmZ29ramFncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oNb3GLUvhF768/giphy.gif;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anA0MWZjcWp1d2V3aGYzeWJmM29td3Q2aGI4Y3FvMDdmZjBpcnpidiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G5FrxZcaSTAJ4fMLuS/giphy.gif;"/>
   
   <!-- Кнопки соцсетей (стиль северного сияния: зеленый и фиолетовый) -->
   <a href="https://t.me/Anna_Tsoy">
