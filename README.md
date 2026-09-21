@@ -1,4 +1,4 @@
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29vbHYwMXl0eHM0cTVsaDlqZ2w1YmFyeDhqdWx5MzhmZ29ramFncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oNb3GLUvhF768/giphy.gif" width="50%" height="180" alt="Northern Lights" style="border-radius: 10px; margin-bottom: 15px;"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29vbHYwMXl0eHM0cTVsaDlqZ2w1YmFyeDhqdWx5MzhmZ29ramFncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oNb3GLUvhF768/giphy.gif" width="70%" height="200" alt="Northern Lights" style="border-radius: 10px; margin-bottom: 15px;"/>
 
 <!-- Заголовок -->
 <div align="center">
