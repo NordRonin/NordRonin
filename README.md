@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Гифка в самом начале, по центру -->
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anA0MWZjcWp1d2V3aGYzeWJmM29td3Q2aGI4Y3FvMDdmZjBpcnpidiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G5FrxZcaSTAJ4fMLuS/giphy.gif" width="300" alt="Northern Lights" style="border-radius: 10px; margin-bottom: 20px;"/>
  
 <!-- Заголовок -->
@@ -7,7 +6,7 @@
   <h1>Привет, я Анна! 👋</h1>
   <p><b>Продуктовый аналитик / Аналитик данных</b></p>
   
-  <!-- Кнопки соцсетей (стиль северного сияния: зеленый и фиолетовый) -->
+  <!-- Кнопки соцсетей -->
   <a href="https://t.me/Anna_Tsoy">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=8e44ad" alt="Telegram Badge"/>
   </a>
@@ -17,6 +16,7 @@
 </div>
 
 <br/>
+<hr/>
 
 <!-- Обо мне -->
 <h2>🌌 Обо мне:</h2>
