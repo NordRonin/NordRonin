@@ -1,8 +1,11 @@
+<!-- ============================================ -->
+<!-- ШАПКА ПРОФИЛЯ (ВЫРАВНИВАНИЕ ПО ЦЕНТРУ)       -->
+<!-- ============================================ -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anA0MWZjcWp1d2V3aGYzeWJmM29td3Q2aGI4Y3FvMDdmZjBpcnpidiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G5FrxZcaSTAJ4fMLuS/giphy.gif" width="300" alt="Northern Lights" style="border-radius: 10px; margin-bottom: 20px;"/>
- 
-<!-- Заголовок -->
-<div align="center">
+  <!-- Гифка -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anA0MWZjcWp1d2V3aGYzeWJmM29td3Q2aGI4Y3FvMDdmZjBpcnpidiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G5FrxZcaSTAJ4fMLuS/giphy.gif" width="700" alt="Northern Lights" style="border-radius: 10px; margin-bottom: 20px;"/>
+  
+  <!-- Приветствие -->
   <h1>Привет, я Анна! 👋</h1>
   <p><b>Продуктовый аналитик / Аналитик данных</b></p>
   
@@ -13,24 +16,29 @@
   <a href="mailto:sorendo-2010.tsoy@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=2ecc71" alt="Email Badge"/>
   </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8e44ad" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <br/>
-<hr/>
+<hr/> <!-- Разделительная линия, чтобы отделить шапку от основного текста -->
 
-<!-- Обо мне -->
+<!-- ============================================ -->
+<!-- ОСНОВНОЙ КОНТЕНТ (ВЫРАВНИВАНИЕ ПО ЛЕВОМУ КРАЮ)-->
+<!-- ============================================ -->
+
+<!-- Блок Обо мне -->
 <h2>🌌 Обо мне:</h2>
-<p>Я аналитик данных с опытом управления проектами и работы с данными. Умею работать с SQL, Python (Pandas, NumPy), строить дашборды, проводить A/B-тесты и анализировать продуктовые метрики (LTV, retention, конверсия, ARPU).</p>
+<p>Я аналитик данных с опытом управления проектами и работы с данными. Прошла обучение в <b>Karpov.Courses</b> по программе «Аналитик данных». Умею работать с SQL, Python (Pandas, NumPy), строить дашборды, проводить A/B-тесты и анализировать продуктовые метрики (LTV, retention, конверсия, ARPU).</p>
 <ul>
   <li>🔭 Ищу команду, где смогу применять аналитику для роста продукта и принятия решений на основе данных.</li>
   <li>📊 Люблю наводить порядок в данных, визуализировать их и находить бизнес-инсайты.</li>
-  <li>📚 Постоянно развиваюсь: читаю книги по статистике и экономике, смотрю профильные YouTube-блоги.</li>
-  <li>🐕 Воспитываю корги по кличке Перси и интересуюсь видеоигровой индустрией. Путешествую.</li>
+  <li>📚 Постоянно учусь: читаю книги по статистике и экономике, смотрю профильные YouTube-блоги.</li>
+  <li>🐕 Воспитываю корги по имени Перси и интересуюсь видеоигровой индустрией.</li>
 </ul>
 
-<hr/>
-
-<!-- Языки и инструменты -->
+<!-- Блок Языки и инструменты -->
 <h2>🛠️ Языки и инструменты:</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -44,6 +52,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=2ecc71" alt="Excel"/>
 </p>
 
+<!-- Блок Умею -->
 <h3>💡 Умею:</h3>
 <ul>
   <li>Проведение A/B-тестов (дизайн экспериментов, оценка результатов, статистическая значимость)</li>
@@ -56,13 +65,14 @@
 
 <hr/>
 
-<!-- Проекты -->
+<!-- Блок Проекты -->
 <h2>📁 Мои проекты:</h2>
+<p>В процессе обучения и практики я реализовала несколько аналитических проектов. Ниже представлены наиболее интересные из них:</p>
 
 | Название проекта | Описание проекта | Стек | Ссылка |
 | :--- | :--- | :--- | :--- |
-| **Проект 1** | *Описание* | *Python, Pandas, SQL* | *[Ссылка на GitHub](#)* |
-| **Проект 2** | *Описание* | *Power BI, Excel* | *[Ссылка на GitHub](#)* |
+| **Проект 1** | *Здесь будет описание твоего первого проекта* | *Python, Pandas, SQL* | *[Ссылка на GitHub](#)* |
+| **Проект 2** | *Здесь будет описание твоего второго проекта* | *Power BI, Excel* | *[Ссылка на GitHub](#)* |
 
 <br/>
 
