@@ -1,5 +1,7 @@
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29vbHYwMXl0eHM0cTVsaDlqZ2w1YmFyeDhqdWx5MzhmZ29ramFncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oNb3GLUvhF768/giphy.gif" width="70%" height="200" alt="Northern Lights" style="border-radius: 10px; margin-bottom: 15px;"/>
-
+<div align="center">
+  <!-- Гифка в самом начале, по центру -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anA0MWZjcWp1d2V3aGYzeWJmM29td3Q2aGI4Y3FvMDdmZjBpcnpidiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G5FrxZcaSTAJ4fMLuS/giphy.gif" width="700" alt="Northern Lights" style="border-radius: 10px; margin-bottom: 20px;"/>
+ 
 <!-- Заголовок -->
 <div align="center">
   <h1>Привет, я Анна! 👋</h1>
