@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Гифка в самом начале, по центру -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anA0MWZjcWp1d2V3aGYzeWJmM29td3Q2aGI4Y3FvMDdmZjBpcnpidiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G5FrxZcaSTAJ4fMLuS/giphy.gif" width="700" alt="Northern Lights" style="border-radius: 10px; margin-bottom: 20px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anA0MWZjcWp1d2V3aGYzeWJmM29td3Q2aGI4Y3FvMDdmZjBpcnpidiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G5FrxZcaSTAJ4fMLuS/giphy.gif" width="300" alt="Northern Lights" style="border-radius: 10px; margin-bottom: 20px;"/>
  
 <!-- Заголовок -->
 <div align="center">
