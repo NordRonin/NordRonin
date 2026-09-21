@@ -1,10 +1,9 @@
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anA0MWZjcWp1d2V3aGYzeWJmM29td3Q2aGI4Y3FvMDdmZjBpcnpidiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G5FrxZcaSTAJ4fMLuS/giphy.gif" width="100%" height="180" alt="Northern Lights" style="border-radius: 10px; margin-bottom: 15px;"/>
+
 <!-- Заголовок -->
 <div align="center">
   <h1>Привет, я Анна! 👋</h1>
   <p><b>Продуктовый аналитик / Аналитик данных</b></p>
-  
-  <!-- Здесь можешь вставить GIF с северным сиянием (пример ссылки, замени на свою) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anA0MWZjcWp1d2V3aGYzeWJmM29td3Q2aGI4Y3FvMDdmZjBpcnpidiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G5FrxZcaSTAJ4fMLuS/giphy.gif;"/>
   
   <!-- Кнопки соцсетей (стиль северного сияния: зеленый и фиолетовый) -->
   <a href="https://t.me/Anna_Tsoy">
