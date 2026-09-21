@@ -71,7 +71,7 @@
 
 | Название проекта | Описание проекта | Стек | Ссылка |
 | :--- | :--- | :--- | :--- |
-| **Анализ продукта и поиск точек роста для маркетплейса** | *Когортный анализ Retention (медианный retention 1-го месяца — 0.51%), оценка Product/Market Fit (не достигнут), выбор 5 ключевых метрик (GMV, MAU, CR, Repeat Buyer Rate, ARPPU). Приоритизация гипотез по ICE, выбор гипотезы №1 (исправление багов оплаты). Определение целевой (Delivery Rate), прокси (Approval Rate) и барьерной (среднее время доставки) метрик. Проверка гипотез с помощью A/B-тестов (T-test, Bootstrap).* | *pandas, numpy, seaborn, matplotlib, scipy, Jupyter Notebook* | *[[Ссылка на GitHub]](https://github.com/NordRonin/Product-analysis-marketplace)(#)* |
+| **Анализ продукта и поиск точек роста для маркетплейса** | *Когортный анализ Retention, оценка Product/Market Fit, выбор 5 ключевых метрик (GMV, MAU, CR, Repeat Buyer Rate, ARPPU). Приоритизация гипотез по ICE. Определение целевой (Delivery Rate), прокси (Approval Rate) и барьерной (среднее время доставки) метрик. Проверка гипотез с помощью A/B-тестов (T-test, Bootstrap).* | *pandas, numpy, seaborn, matplotlib, scipy, Jupyter Notebook* | *[[Ссылка на GitHub]](https://github.com/NordRonin/Product-analysis-marketplace)* |
 | **Проект 2** | *описание* | *Power BI, Excel* | *[Ссылка на GitHub](#)* |
 
 <br/>
