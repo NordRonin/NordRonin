@@ -13,9 +13,6 @@
   <a href="mailto:sorendo-2010.tsoy@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=2ecc71" alt="Email Badge"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8e44ad" alt="LinkedIn Badge"/>
-  </a>
 </div>
 
 <br/>
@@ -63,8 +60,8 @@
 
 | Название проекта | Описание проекта | Стек | Ссылка |
 | :--- | :--- | :--- | :--- |
-| **Проект 1** | *Здесь будет описание твоего первого проекта* | *Python, Pandas, SQL* | *[Ссылка на GitHub](#)* |
-| **Проект 2** | *Здесь будет описание твоего второго проекта* | *Power BI, Excel* | *[Ссылка на GitHub](#)* |
+| **Проект 1** | *Описание* | *Python, Pandas, SQL* | *[Ссылка на GitHub](#)* |
+| **Проект 2** | *Описание* | *Power BI, Excel* | *[Ссылка на GitHub](#)* |
 
 <br/>
 
