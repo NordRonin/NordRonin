@@ -71,10 +71,12 @@
 
 | Название проекта | Описание проекта | Стек | Ссылка |
 | :--- | :--- | :--- | :--- |
+| **Проект тревел** | *описание* | *Power BI, Excel* | *[Ссылка на GitHub](#)* |
+| **Проект гейм** | *описание* | *Power BI, Excel* | *[Ссылка на GitHub](#)* |
 | **Анализ продукта и поиск точек роста для маркетплейса** | *Когортный анализ Retention, оценка Product/Market Fit, выбор 5 ключевых метрик (GMV, MAU, CR, Repeat Buyer Rate, ARPPU). Приоритизация гипотез по ICE. Определение целевой (Delivery Rate), прокси (Approval Rate) и барьерной (среднее время доставки) метрик. Проверка гипотез с помощью A/B-тестов (T-test, Bootstrap).* | *pandas, numpy, seaborn, matplotlib, scipy, Jupyter Notebook* | *[Ссылка на GitHub](https://github.com/NordRonin/Product-analysis-marketplace)* |
 | **Анализ оптовых продаж аудиотехники («Карпов Саунд»)** | *Сбор и предобработка данных из разрозненных источников CRM. Расчёт выручки, среднего чека, доли отмен. Поиск аномалий, анализ неликвидных брендов (Marantz, Dali, Pioneer, KEF), отчёт по менеджерам.* | *pandas, numpy, seaborn, matplotlib, os, Jupyter Notebook* | *[Ссылка на GitHub](https://github.com/NordRonin/Sales-analysis-sound-goods-company)* |
 | **Дашборд финансовых показателей брендов (beauty)** | *Подготовка и очистка данных о продажах брендов косметики, объединение выгрузок данных, расчёт топ-брендов по выручке. Создание интерактивного дашборда в DataLens: динамика выручки, зависимость % выкупа от цены по категориям, лидеры продаж по брендам. Фильтры по месяцу, категории и бренду.* | *pandas, DataLens, Jupyter Notebook* | *[Ссылка на GitHub](https://github.com/NordRonin/Beauty_brands_dashboard)* |
-| **Проект 4** | *описание* | *Power BI, Excel* | *[Ссылка на GitHub](#)* |
+| **Аналитика мобильной игры** | *Разработка функции расчёта Retention (когортный анализ по дням). Анализ A/B-теста акционных предложений: CR, ARPU, ARPPU, χ²-тест, Bootstrap для оценки значимости. Проектирование системы метрик для оценки тематических игровых событий (вовлечённость, воронка, монетизация, retention) с учётом усложнённой механики отката.* | *pandas, numpy, scipy, matplotlib, Jupyter Notebook* | *[Ссылка на GitHub](https://github.com/NordRonin/Mobile-game-analytics/tree/main)* |
 
 <br/>
 
