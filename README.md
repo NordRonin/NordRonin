@@ -72,7 +72,9 @@
 | Название проекта | Описание проекта | Стек | Ссылка |
 | :--- | :--- | :--- | :--- |
 | **Анализ продукта и поиск точек роста для маркетплейса** | *Когортный анализ Retention, оценка Product/Market Fit, выбор 5 ключевых метрик (GMV, MAU, CR, Repeat Buyer Rate, ARPPU). Приоритизация гипотез по ICE. Определение целевой (Delivery Rate), прокси (Approval Rate) и барьерной (среднее время доставки) метрик. Проверка гипотез с помощью A/B-тестов (T-test, Bootstrap).* | *pandas, numpy, seaborn, matplotlib, scipy, Jupyter Notebook* | *[[Ссылка на GitHub]](https://github.com/NordRonin/Product-analysis-marketplace)* |
-| **Проект 2** | *описание* | *Power BI, Excel* | *[Ссылка на GitHub](#)* |
+| **Анализ оптовых продаж аудиотехники («Карпов Саунд»)** | *Сбор и предобработка данных из разрозненных источников CRM. Расчёт выручки, среднего чека, доли отмен. Поиск аномалий, анализ неликвидных брендов (Marantz, Dali, Pioneer, KEF), отчёт по менеджерам. * | *pandas, numpy, seaborn, matplotlib, os, Jupyter Notebook * | *[https://github.com/NordRonin/Sales-analysis-sound-goods-company]* |
+| **Проект 3** | *описание* | *Power BI, Excel* | *[Ссылка на GitHub](#)* |
+| **Проект 4** | *описание* | *Power BI, Excel* | *[Ссылка на GitHub](#)* |
 
 <br/>
 
