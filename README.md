@@ -3,7 +3,7 @@
 <!-- ============================================ -->
 <div align="center">
   <!-- Гифка -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anA0MWZjcWp1d2V3aGYzeWJmM29td3Q2aGI4Y3FvMDdmZjBpcnpidiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G5FrxZcaSTAJ4fMLuS/giphy.gif" width="700" alt="Northern Lights" style="border-radius: 10px; margin-bottom: 20px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anA0MWZjcWp1d2V3aGYzeWJmM29td3Q2aGI4Y3FvMDdmZjBpcnpidiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G5FrxZcaSTAJ4fMLuS/giphy.gif" width="300" alt="Northern Lights" style="border-radius: 10px; margin-bottom: 20px;"/>
   
   <!-- Приветствие -->
   <h1>Привет, я Анна! 👋</h1>
@@ -34,8 +34,8 @@
 <ul>
   <li>🔭 Ищу команду, где смогу применять аналитику для роста продукта и принятия решений на основе данных.</li>
   <li>📊 Люблю наводить порядок в данных, визуализировать их и находить бизнес-инсайты.</li>
-  <li>📚 Постоянно учусь: читаю книги по статистике и экономике, смотрю профильные YouTube-блоги.</li>
-  <li>🐕 Воспитываю корги по имени Перси и интересуюсь видеоигровой индустрией.</li>
+  <li>📚 Постоянно совершенствуюсь: читаю книги по статистике и экономике, смотрю профильные YouTube-блоги.</li>
+  <li>🐕 Воспитываю корги по имени Перси и интересуюсь видеоигровой индустрией. Путешествую.</li>
 </ul>
 
 <!-- Блок Языки и инструменты -->
@@ -71,8 +71,8 @@
 
 | Название проекта | Описание проекта | Стек | Ссылка |
 | :--- | :--- | :--- | :--- |
-| **Проект 1** | *Здесь будет описание твоего первого проекта* | *Python, Pandas, SQL* | *[Ссылка на GitHub](#)* |
-| **Проект 2** | *Здесь будет описание твоего второго проекта* | *Power BI, Excel* | *[Ссылка на GitHub](#)* |
+| **Проект 1** | *описание* | *Python, Pandas, SQL* | *[Ссылка на GitHub](#)* |
+| **Проект 2** | *описание* | *Power BI, Excel* | *[Ссылка на GitHub](#)* |
 
 <br/>
 
